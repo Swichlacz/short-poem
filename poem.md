@@ -23,7 +23,7 @@ And love and pain,
 
 Why should we fear
 
-The wrath of the _rain!_
+The wrath of the **rain!**
 
 
 --*Sara Teasdale*
