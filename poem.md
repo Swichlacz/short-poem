@@ -1,19 +1,32 @@
-Summer Storm
-
-    By Sara Teasdale 
+# Summer Storm
 
 
 The panther wind
+
 Leaps out of the night,
+
 The snake of lightning
+
 Is twisting and white,
+
 The lion of thunder
+
 Roars, and we
+
 Sit still and content
+
 Under a tree,
+
 We have met fate together
+
 And love and pain,
+
 Why should we fear
-The wrath of the rain!
+
+The wrath of the _rain!_
+
+
+--*Sara Teasdale*
+
 
 http://www.public-domain-poetry.com/sara-teasdale/summer-storm-1880
